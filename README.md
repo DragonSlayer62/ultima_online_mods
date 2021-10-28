@@ -57,13 +57,6 @@ software guide and additional mods by Gaechti :
 http://www.burningsheep.ch/finished.html
 https://forums.uooutlands.com/index.php?threads/gaechtis-ultima-online-patches-tree-stump-better-reags-and-more.838/
 
-# UO Outlands
-https://uooutlands.com/
-- fantastic server , highly recommend ! some notes for using art mods with their launcher :
-
-- in launcher > gear > settings > uncheck automatic patch , close .
-- then on reopen will see the difference in client vs server patch and can skip ( cancel patch )
-- if see multiple of the .mul files with differences then the server patched and you should Apply Patch to update to match the latest then reapply the art mods using the Mulpatcher .
 
 # Thanks
 - many thanks to ultima community creating shards , guides , tools , and content !
